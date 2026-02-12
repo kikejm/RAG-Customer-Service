@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+pymupdf
+sentence-transformers
+numpy<2.0.0
+tf-keras
